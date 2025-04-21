@@ -3,9 +3,9 @@
   "short_name": "Animagine XL 3.1",
   "description": "Animagine XL 3.1",
   "icons": [{
-      "src": "https://ul.h3z.jp/BySvOuwH.png",
+      "src": "https://ul.h3z.jp/GQAPc6u8.jpg",
       "sizes": "256x256",
-      "type": "image/png"
+      "type": "image/jpeg"
     }],
   "start_url": "./pwa.html",
   "display": "Fullscreen",
